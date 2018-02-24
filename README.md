@@ -8,6 +8,7 @@ fetch_code('./Fluid.py')
 ```
 
 ## Spin up a python server
+Paste command in terminal
 ```
 python3 -m http.server
 ```
